@@ -1,0 +1,15 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: |cff0cd29fEllesmereUI|r Pet Auras
+## Category: |cff0cd29fEllesmere|rUI
+## Group: EllesmereUI
+## Notes: Your pet's buffs and debuffs next to the pet frame (EllesmereUI, Blizzard or any unit frame addon). Settings: Dworak > Pet Auras, /pa
+## Author: Dworak
+## Version: 5.1.1
+## Dependencies: EllesmereUI, EllesmereUIDworak
+## OptionalDeps: EllesmereUIUnitFrames
+## SavedVariables: EllesmereUIPetAurasDB
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+# Dworak > Pet Auras in the EllesmereUI panel (registered through EllesmereUIDworak)
+EllesmereUIPetAuras.lua
+EllesmereUIPetAuras_Options.lua
